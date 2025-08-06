@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+generated_tablegen/
+generated/
+*.td
+sample_udb.yaml
+.vscode/
+.DS_Store
+
+# Virtual environment
+riscv-env/
+venv/
+env/
