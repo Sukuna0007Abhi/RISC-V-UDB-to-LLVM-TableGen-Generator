@@ -10,11 +10,11 @@
 
 This tool reads RISC-V Unified Database (UDB) YAML specifications and automatically generates production-ready LLVM TableGen definitions for:
 
-- ✅ **Instruction definitions** with proper encoding
-- ✅ **Register classes** and allocation rules  
-- ✅ **Selection patterns** for code generation
-- ✅ **Scheduling models** for pipeline optimization
-- ✅ **Complete LLVM backend** structure
+-  **Instruction definitions** with proper encoding
+- **Register classes** and allocation rules  
+-  **Selection patterns** for code generation
+- **Scheduling models** for pipeline optimization
+-  **Complete LLVM backend** structure
 
 **Impact**: Reduces 2-3 weeks of manual TableGen development to minutes of automated generation.
 
